@@ -1,0 +1,2 @@
+token = 6403355593:AAGpds6r38BIzWoW-IwcvD_FtzJUGVrxHhw
+user id = 6169730392
